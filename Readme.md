@@ -1,33 +1,33 @@
-
 <html>
 <head>
   <meta charset="utf-8" />
   <title>BHNtools-R</title>
   <script type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js"></script>
 </head>
-
 <body>
 <article>
   <div>
     <header>
-        <section style="color:blue;float:left;padding-right:20px;">
-        <img src="logos/BHNtools-R.png" style="width:60px;height:60px;">
+        <section style="color:blue;float:left;padding-right:10px;">
+        <img src="logos/BHNtools-R.png" style="width:80px;height:80px;">
         </section>
         <section style="color:navy;float:left;padding-left:15px;">
         <br>
         <br>
+        <section style="color:blue;float:left;padding-right:20px;">
         <h1>BHNtools-R</h1>
         <img src="logos/Rlogo.png" style="width:'25px;height:25px;">
         <br>
-        <img src="logos/Rstudiologo.png" style="width:45px;height:45px;float:right;"">
+        <img src="logos/Rstudiologo.png" style="width:35px;height:35px;float:right;"">
         <br>
         <img src="logos/Rshinylogo.png" style="width:45px;height:45px;float:left;"">
-
- </div>
+        </section>
+      </header>
+ 	</div>
  
 <section id="content"style="color:black;float:left;">
 <h1 id='idtitle1'>I. What is this?</h1>
-<H6>Developing Trying and Testing packages and repositories with R project.</h6>
+<H4 style="color:navy;">Developing, Trying and Testing packages and repositories with R project.</h4>
 <h1 id='idtitle4'>II. Issues and Contributing</h1> 
 
 <h2>I.1/ Support</h2>
