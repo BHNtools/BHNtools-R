@@ -8,14 +8,14 @@
 <article>
   <div>
     <header>
-        <section style="color:blue;float:left;padding-right:10px;">
-        <img src="logos/BHNtools-R.png" style="width:80px;height:80px;">
+        <section style="color:blue;float:left;padding-right:2px;">
+        <img src="logos/BHNtools-R.png" style="width:55px;height:55px;">
         </section>
-        <section style="color:navy;float:left;padding-left:15px;">
+        <section style="color:navy;float:left;padding-left:1px;">
         <br>
         <br>
-        <section style="color:blue;float:left;padding-right:20px;">
-        <h1>BHNtools-R</h1>
+        <section style="color:blue;float:left;padding-right:2px;">
+        <h2>BHNtools-R</h2>
         <img src="logos/Rlogo.png" style="width:'25px;height:25px;">
         <br>
         <img src="logos/Rstudiologo.png" style="width:35px;height:35px;float:right;"">
@@ -26,19 +26,19 @@
  	</div>
  
 <section id="content"style="color:black;float:left;">
-<h1 id='idtitle1'>I. What is this?</h1>
+<h3 id='idtitle1'>I. What is this?</h3>
 <H4 style="color:navy;">Developing, Trying and Testing packages and repositories with R project.</h4>
-<h1 id='idtitle4'>II. Issues and Contributing</h1> 
+<h3 id='idtitle4'>II. Issues and Contributing</h3> 
 
-<h2>I.1/ Support</h2>
+<h4>I.1/ Support</h4>
 <p>
 If you are having issues, please let me know.
 </p>
-<h2>II.2/ Contribute</h2>
+<h4>II.2/ Contribute</h4>
 <p>Bug reports, bug fixes, and new features are always welcome.<br>
 * Issue Tracker: github<br>
 * Source Code: github</p>
-<h2 id='idtitleE'>III.3/ Authors and Maintainers</h2>
+<h4 id='idtitleE'>III.3/ Authors and Maintainers</h4>
 <p>Najla BEN HASSINE : <a href="MAILTO:bhndevtools@gmail.com?Subject=DockerBIum">bhndevtools@gmail.com</a></p>
 <section style="font: bold;color:green;align:center;font-size:small;">
 <footer>BHNtools-copyright2016©</footer>
@@ -49,8 +49,10 @@ If you are having issues, please let me know.
 <!--div style="font:bold;color:navt;align:center;font-size:small; border: 2px solid; border-radius:25px;"-->
 <div style='font:bold;width:250px;padding-left:5px; padding-right:5px; margin-left:5px;'>Topics
 <br>
-
-<a href=#idtitle4>IV. Issues and Contributing</a>
+<br>
+<a href=#idtitle1>I. What is this?</a>
+<br>
+<a href=#idtitle4>II. Issues and Contributing</a>
 </div>
 </aside>
 </body>
