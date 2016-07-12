@@ -8,19 +8,19 @@
 <article>
   <div>
     <header>
-        <section style="color:blue;float:left;padding-right:2px;">
-        <img src="logos/BHNtools-R.png" style="width:55px;height:55px;">
+        <section style="color:blue;float:right;padding-right:2px;">
+        <img src="logos/BHNtools-R.png" style="width:20px;height:20px;">
         </section>
         <section style="color:navy;float:left;padding-left:1px;">
         <br>
         <br>
-        <section style="color:blue;float:right;padding-right:2px;">
+        <section style="color:blue;float:right;padding-right:1px;">
         <h2>BHNtools-R</h2>
         <img src="logos/Rlogo.png" style="width:'25px;height:25px;">
         <br>
-        <img src="logos/Rstudiologo.png" style="width:35px;height:35px;float:right;"">
+        <img src="logos/Rstudiologo.png" style="width:30px;height:30px;float:right;"">
         <br>
-        <img src="logos/Rshinylogo.png" style="width:45px;height:45px;float:left;"">
+        <img src="logos/Rshinylogo.png" style="width:40px;height:40px;float:left;"">
         </section>
       </header>
  	</div>
