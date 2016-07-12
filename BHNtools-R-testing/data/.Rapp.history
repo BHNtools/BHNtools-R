@@ -1,0 +1,2 @@
+load("/Users/remindNahool/Documents/StacKOV/Rstack/ggplot-sizing-prj/data/openData.RData")
+ls()
