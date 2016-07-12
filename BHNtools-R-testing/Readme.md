@@ -14,7 +14,7 @@
   <div>
     <header>
         <section style="color:blue;float:right;padding-right:20px;">
-        <img src="BHNtools-R-test.png" style="width:250px;height:200px;">
+        <img src="BHNtools-R-test.png" style="width:150px;height:150px;">
         </section>
         <section style="color:navy;float:left;padding-left:15px;">
         <h1>BHNtools-R :: Testing</h1>

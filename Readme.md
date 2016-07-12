@@ -4,18 +4,14 @@
   <meta charset="utf-8" />
   <title>BHNtools-R</title>
   <script type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js"></script>
-  <!--[if lt IE 9]>
-    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-  <![endif]-->
 </head>
-
 
 <body>
 <article>
   <div>
     <header>
         <section style="color:blue;float:left;padding-right:20px;">
-        <img src="logos/BHNtools-R.png" style="width:200px;height:200px;">
+        <img src="logos/BHNtools-R.png" style="width:100px;height:100px;">
         </section>
         <section style="color:navy;float:left;padding-left:15px;">
         <br>
