@@ -11,17 +11,17 @@
   <div>
     <header>
         <section style="color:blue;float:left;padding-right:20px;">
-        <img src="logos/BHNtools-R.png" style="width:100px;height:100px;">
+        <img src="logos/BHNtools-R.png" style="width:60px;height:60px;">
         </section>
         <section style="color:navy;float:left;padding-left:15px;">
         <br>
         <br>
         <h1>BHNtools-R</h1>
-        <img src="logos/Rlogo.png" style="width:'45px;height:45px;">
+        <img src="logos/Rlogo.png" style="width:'25px;height:25px;">
         <br>
         <img src="logos/Rstudiologo.png" style="width:45px;height:45px;float:right;"">
         <br>
-        <img src="logos/Rshinylogo.png" style="width:65px;height:65px;float:left;"">
+        <img src="logos/Rshinylogo.png" style="width:45px;height:45px;float:left;"">
 
  </div>
  

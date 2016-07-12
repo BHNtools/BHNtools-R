@@ -2,11 +2,8 @@
 <html>
 <head>
   <meta charset="utf-8" />
-  <title>BHNtools-R</title>
+  <title>BHNtools-R-Tests</title>
   <script type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js"></script>
-  <!--[if lt IE 9]>
-    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-  <![endif]-->
 </head>
 
 <body>
