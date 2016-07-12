@@ -31,7 +31,7 @@
  
 <section id="content"style="color:black;float:left;">
 <h1 id='idtitle1'>I. What is this?</h1>
-<H6>Developing and testing package and repositories with R project.</h6>
+<H6>Developing Trying and Testing packages and repositories with R project.</h6>
 <h1 id='idtitle4'>II. Issues and Contributing</h1> 
 
 <h2>I.1/ Support</h2>
