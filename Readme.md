@@ -14,7 +14,7 @@
         <section style="color:navy;float:left;padding-left:1px;">
         <br>
         <br>
-        <section style="color:blue;float:left;padding-right:2px;">
+        <section style="color:blue;float:right;padding-right:2px;">
         <h2>BHNtools-R</h2>
         <img src="logos/Rlogo.png" style="width:'25px;height:25px;">
         <br>
