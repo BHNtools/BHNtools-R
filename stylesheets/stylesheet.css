@@ -450,10 +450,16 @@ a:hover {
 header {
   padding-top: 40px;
   padding-bottom: 40px;
+<<<<<<< HEAD
   font-family: 'Times', 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
   background: #2e7bcf url(../images/header-bg.jpg) 0 0 repeat-x;
   border-bottom: solid 1px #275da1;
 
+=======
+  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+  background: #2e7bcf url(../images/header-bg.jpg) 0 0 repeat-x;
+  border-bottom: solid 1px #275da1;
+>>>>>>> fe1c71033c2b29a053cfd6b5358a4a166dbc54ad
 }
 
 header h1 {
@@ -648,7 +654,11 @@ form {
 #main-content h3 {
   margin-top: 24px;
   margin-bottom: 8px;
+<<<<<<< HEAD
   font-family: "Arial",'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+=======
+  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+>>>>>>> fe1c71033c2b29a053cfd6b5358a4a166dbc54ad
   font-size: 18px;
   font-weight: bold;
   color: #474747;
@@ -664,7 +674,11 @@ form {
 
 #main-content h4 {
   margin-bottom: 8px;
+<<<<<<< HEAD
   font-family: "Arial",'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+=======
+  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+>>>>>>> fe1c71033c2b29a053cfd6b5358a4a166dbc54ad
   font-size: 15px;
   font-weight: bold;
   color: #474747;
