@@ -18,11 +18,11 @@
         <h2>BHNtools-R</h2>
         <img src="logos/Rlogo.png" style="width:'25px;height:25px;">
         <br>
-        <img src="logos/Rstudiologo.png" style="width:30px;height:30px;float:right;"">
+        <img src="logos/Rstudiologo.png" style="width:30px;height:30px;float:right;">
         <br>
-        <img src="logos/Rshinylogo.png" style="width:40px;height:40px;float:left;"">
+        <img src="logos/Rshinylogo.png" style="width:25px;height:25px;float:left;">
         </section>
-      </header>
+   </header>
  	</div>
  
 <section id="content"style="color:black;float:left;">
