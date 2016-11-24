@@ -4,68 +4,67 @@
   <title>BHNtools-R</title>
   <script type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js"></script>
 </head>
-<body>
-<article>
-  <div>
-    <header>
-<<<<<<< HEAD
-       <h2>BHNtools-R</h2>
-   </header>
-        <aside ection style="color:blue;float:left;padding-right:1px;">     
-        <img src="logos/BHNtools-R.png" style="width:15px; height:15px;">
-        </aside>
-        <aside style="color:blue;float:left;padding-right:1px;">
-        <section>
-        <img src="logos/Rlogo.png" style="width:'10px; height:10px; float:right;  display: inline;">
-        <img src="logos/Rstudiologo.png" style="width:8px; height:8px; float:right; display: inline;">
-        <img src="logos/Rshinylogo.png" style="width:6px;height:6px;float:right; display: inline;">
-=======
-       <h2>BHNtools-R-Stackoverflow-Scripts</h2>
-   </header>
-        <aside>     
-        <section style="color:blue;float:right;padding-right:2px;">
-        <img src="logos/BHNtools-R.png" style="width:15px;height:15px;">
-        </section>
-        </aside>
-        <aside>
-        <section style="color:blue;float:right;padding-right:1px;">
-        <img src="logos/Rlogo.png" style="width:'5px;height:5px;float:right;">
-        <br>
-        <img src="logos/Rstudiologo.png" style="width:5px;height:5px;float:right;">
-        <br>
-        <img src="logos/Rshinylogo.png" style="width:5px;height:5px;float:right;">
->>>>>>> fe1c71033c2b29a053cfd6b5358a4a166dbc54ad
-        </section>
-        </aside>
- 	</div>
-<section id="content"style="color:black;float:left;">
-<h3 id='idtitle1'>I. What is this?</h3>
-<H4 style="color:navy;">Developing, Trying and Testing packages and repositories with R project.</H4>
-<h3 id='idtitle4'>II. Issues and Contributing</h3> 
-<h4>I.1/ Support</h4>
-<p>
-If you are having issues, please let me know.
-</p>
-<h4>II.2/ Contribute</h4>
-<p>Bug reports, bug fixes, and new features are always welcome.<br>
-* Issue Tracker: github<br>
-* Source Code: github</p>
-<h4 id='idtitleE'>III.3/ Authors and Maintainers</h4>
-<p>Najla BEN HASSINE : <a href="MAILTO:bhndevtools@gmail.com?Subject=DockerBIum">bhndevtools@gmail.com</a></p>
-<section style="font:bold;color:green;align:center;font-size:small;">
-<footer>BHNtools-copyright2016©</footer>
-</section>
-</section>
-</article>
-<aside style='float:right; font:bold; color:navy; align:center; font-size:small; border: 1.5px solid; border-radius:20px; width:200px;'>
-<!--div style="font:bold;color:navt;align:center;font-size:small; border: 2px solid; border-radius:25px;"-->
-<div style='font:bold;width:250px;padding-left:5px; padding-right:5px; margin-left:5px;'>Topics
-<br>
-<br>
-<a href=#idtitle1>I. What is this?</a>
-<br>
-<a href=#idtitle4>II. Issues and Contributing</a>
-</div>
-</aside>
-</body>
+<header>
+        <h2 style="padding-left:5px;;padding-right:5px;" >BHNtools-R <img src="logos/BHNtools-R.png" style="width:55px; height:55px;float:right;"></h2>
+</header>
+<div id="content-wrapper">
+      <div class="inner clearfix">
+        <section id="main-content">
+            <aside style='float:right; width:350px;'>
+                <article style="aling:center;">
+                <h3 id='idtitle1'>I. What is this?</h3>
+                <H4 style="color:navy; align:center;">Developing, Trying and Testing R packages.</H4>
+                <h3 id='idtitle2'>II. Projects</h3>
+                    <h4 id='subidtitle2'>II.1/ StackOverflow scripts</h4>
+                    <span><em> - <strong>ggplot2Sizing.R : </strong></em>Plotting p-values with ggplot2.</span>
+                <h3 id='idtitle4'>III. Issues and Contributing</h3>
+                <h4>III.1/ Contribute</h4>
+                <p>Bug reports, bug fixes, and new features are always welcome.<br>
+                * Issue Tracker: <a href="https://github.com/BHNtools/BHNtools-R/issues">github</a><br>
+                * Source Code: <a href="https://github.com/BHNtools/BHNtools-R">github</a></p>
+                <h4 id='idtitleE'>III.2/ Authors and Maintainers</h4>
+                <p>Najla BEN HASSINE : <a href="MAILTO:bhndevtools@gmail.com?Subject=DockerBIum">bhndevtools@gmail.com</a></p>
+                <section style="font:bold;color:green;align:center;font-size:small;">
+                BHNtools-copyright©2016
+                </section>
+                </article>
+            </aside>
+            <aside id="sidebar" style="color:blue;float:left;padding-right:1px;">
+            <p><span>BHNtools-R</span></p>
+              <a href="https://github.com/BHNtools/BHNtools-R/zipball/master" class="button">
+                <small>Download</small>
+                .zip file
+              </a>
+              <a href="https://github.com/BHNtools/BHNtools-R/tarball/master" class="button">
+                <small>Download</small>
+                .tar.gz file
+              </a>
+            <p class="repo-owner"><a href="https://github.com/BHNtools/BHNtools-R"></a><strong>BHNtools-R</strong> is maintained by <a href="https://github.com/BHNtools">BHNtools</a>.</p>
+            <p>This page was generated by <a href="https://pages.github.com">GitHub Pages</a> Based on <a href="https://twitter.com/jasonlong"> - Jason Long </a>theme</p>
+                <br>
+                <br>
+                <br>
+                <aside style='float:left; font:bold; color:navy; align:center; font-size:small; border: 1.5px solid; border-radius:20px; width:200px;'>
+                <div style='font:bold;width:250px;padding-left:5px; padding-right:5px; margin-left:5px;'>Topics
+                <br>
+                <br>
+                <a href=#idtitle1>I. What is this?</a>
+                <br>
+                <a href=#idtitle2>II. Projects</a>
+                    <br>
+                    <a href=#subidtitle2>II.1-Stackoverflow</a>
+                <br>
+                <a href=#idtitle4>II. Issues and Contributing</a>
+                </div>
+                </aside>
+            </aside>
+            <aside style="color:blue;float:left;padding-right:2px;padding-left:2px;">
+<img src="logos/Rlogo.png" style="width:30px; height:30px; float:right;  display: inline;">
+            <img src="logos/Rstudiologo.png" style="width:25px; height:25px; float:right; display: inline;">
+            <img src="logos/Rshinylogo.png" style="width:20px;height:20px;float:right; display: inline;">
+            </aside>
+      </section>
+    </div>
+  </div>
+  </body>
 </html>
