@@ -9,19 +9,15 @@
   <div>
     <header>
         <section style="color:blue;float:right;padding-right:2px;">
-        <img src="logos/BHNtools-R.png" style="width:20px;height:20px;">
-        </section>
-        <section style="color:navy;float:left;padding-left:1px;">
-        <br>
-        <br>
+        <img src="logos/BHNtools-R.png" style="width:10px;height:10px;">
         </section>
         <section style="color:blue;float:right;padding-right:1px;">
         <h2>BHNtools-R</h2>
-        <img src="logos/Rlogo.png" style="width:'25px;height:25px;">
+        <img src="logos/Rlogo.png" style="width:'15px;height:15px;float:right;">
         <br>
-        <img src="logos/Rstudiologo.png" style="width:30px;height:30px;float:right;">
+        <img src="logos/Rstudiologo.png" style="width:15px;height:15px;float:right;">
         <br>
-        <img src="logos/Rshinylogo.png" style="width:25px;height:25px;float:left;">
+        <img src="logos/Rshinylogo.png" style="width:15px;height:15px;float:right;">
         </section>
    </header>
  	</div>
