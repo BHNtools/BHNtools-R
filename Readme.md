@@ -8,7 +8,6 @@
         <h2 style="padding-left:5px;padding-right:5px;">BHNtools-R</h2>
 </header>
   <body>
-    <img src="logos/BHNtools-R.png" style="width:5px; height:5px; float:right;">
     <div id="content-wrapper">
       <div class="inner clearfix">
         <section id="main-content">
@@ -31,22 +30,26 @@
                 </section>
                 </article>
             </aside>
-            <aside style='float:left; font:bold; color:navy; align:center; font-size:small; border: 1.5px solid; border-radius:20px; width:200px;'>
-                <div style='font:bold;width:250px;padding-left:5px; padding-right:5px; margin-left:5px;'><p>Topics</p>
-                <br>
-                <br>
-                <a href=#idtitle1>I. What is this?</a>
-                <br>
-                <a href=#idtitle2>II. Projects</a>
-                    <br>
-                    <a href=#subidtitle2>II.1-Stackoverflow</a>
-                <br>
-                <a href=#idtitle4>II. Issues and Contributing</a>
+            <section>
+            <aside style='float:left;' >
+                <div style='font:bold; color:navy; align:center; font-size:small; border: 1.5px solid; border-radius:20px; width:200px;'>
+                  <p>Topics</p>
+                  <a href=#idtitle1>I. What is this?</a>
+                  <br>
+                  <a href=#idtitle2>II. Projects</a>
+                      <br>
+                      <a href=#subidtitle2>II.1-Stackoverflow</a>
+                  <br>
+                  <a href=#idtitle4>II. Issues and Contributing</a>
                 </div>
+              <br>
+              <br>
+              <br>
               <img src="logos/Rlogo.png" style="width:30px; height:30px; float:right;  display: inline;">
               <img src="logos/Rstudiologo.png" style="width:25px; height:25px; float:right; display: inline;">
               <img src="logos/Rshinylogo.png" style="width:20px;height:20px;float:right; display: inline;">
             </aside>
+            </section>
       </section>
       </div>
     </div>
