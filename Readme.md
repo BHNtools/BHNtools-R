@@ -12,25 +12,23 @@
    </header>
         <aside>     
         <section style="color:blue;float:right;padding-right:2px;">
-        <img src="logos/BHNtools-R.png" style="width:10px;height:10px;">
+        <img src="logos/BHNtools-R.png" style="width:15px;height:15px;">
         </section>
         </aside>
         <aside>
         <section style="color:blue;float:right;padding-right:1px;">
-        <img src="logos/Rlogo.png" style="width:'15px;height:10px;float:right;">
+        <img src="logos/Rlogo.png" style="width:'5px;height:5px;float:right;">
         <br>
-        <img src="logos/Rstudiologo.png" style="width:15px;height:10px;float:right;">
+        <img src="logos/Rstudiologo.png" style="width:5px;height:5px;float:right;">
         <br>
-        <img src="logos/Rshinylogo.png" style="width:15px;height:10px;float:right;">
+        <img src="logos/Rshinylogo.png" style="width:5px;height:5px;float:right;">
         </section>
         </aside>
  	</div>
- 
 <section id="content"style="color:black;float:left;">
 <h3 id='idtitle1'>I. What is this?</h3>
 <H4 style="color:navy;">Developing, Trying and Testing packages and repositories with R project.</H4>
 <h3 id='idtitle4'>II. Issues and Contributing</h3> 
-
 <h4>I.1/ Support</h4>
 <p>
 If you are having issues, please let me know.
@@ -41,7 +39,7 @@ If you are having issues, please let me know.
 * Source Code: github</p>
 <h4 id='idtitleE'>III.3/ Authors and Maintainers</h4>
 <p>Najla BEN HASSINE : <a href="MAILTO:bhndevtools@gmail.com?Subject=DockerBIum">bhndevtools@gmail.com</a></p>
-<section style="font: bold;color:green;align:center;font-size:small;">
+<section style="font:bold;color:green;align:center;font-size:small;">
 <footer>BHNtools-copyright2016©</footer>
 </section>
 </section>
