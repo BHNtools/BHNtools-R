@@ -8,7 +8,7 @@
 <article>
   <div>
     <header>
-       <h2>BHNtools-R</h2>
+       <h2>BHNtools-R-Stackoverflow-Scripts</h2>
    </header>
         <aside>     
         <section style="color:blue;float:right;padding-right:2px;">
@@ -16,22 +16,19 @@
         </section>
         </aside>
         <aside>
-        <section style="color:blue;float:right;padding-right:2px;">
-        <img src="logos/BHNtools-R.png" style="width:10px;height:10px;">
-        </section>
         <section style="color:blue;float:right;padding-right:1px;">
-        <img src="logos/Rlogo.png" style="width:'15px;height:15px;float:right;">
+        <img src="logos/Rlogo.png" style="width:'15px;height:10px;float:right;">
         <br>
-        <img src="logos/Rstudiologo.png" style="width:15px;height:15px;float:right;">
+        <img src="logos/Rstudiologo.png" style="width:15px;height:10px;float:right;">
         <br>
-        <img src="logos/Rshinylogo.png" style="width:15px;height:15px;float:right;">
+        <img src="logos/Rshinylogo.png" style="width:15px;height:10px;float:right;">
         </section>
         </aside>
  	</div>
  
 <section id="content"style="color:black;float:left;">
 <h3 id='idtitle1'>I. What is this?</h3>
-<H4 style="color:navy;">Developing, Trying and Testing packages and repositories with R project.</h4>
+<H4 style="color:navy;">Developing, Trying and Testing packages and repositories with R project.</H4>
 <h3 id='idtitle4'>II. Issues and Contributing</h3> 
 
 <h4>I.1/ Support</h4>
