@@ -11,7 +11,8 @@
     <div id="content-wrapper">
       <div class="inner clearfix">
         <section id="main-content">
-            <aside style='float:right; width:350px;'>
+        	<img src="logos/BHNtools-R-Small.png" style="width:55px; height:55px; float:right; display: inline;">
+          <aside style='float:right; width:350px;'>
                 <article style="aling:center;">
                 <h3 id='idtitle1'>I. What is this?</h3>
                 <H4 style="color:navy; align:center;">Developing, Trying and Testing R packages.</H4>
@@ -40,7 +41,7 @@
                       <br>
                       <a href=#subidtitle2>II.1-Stackoverflow</a>
                   <br>
-                  <a href=#idtitle4>II. Issues and Contributing</a>
+                  <a href=#idtitle4>III. Issues and Contributing</a>
                 </div>
               <br>
               <br>
