@@ -1,19 +1,19 @@
 """
-BHNtools-R :: Develop,Test of packages and repositories with R project.
+BHNtools-R :: Developing and Testing R packages.
 
 
 Authors & Maintainer
-====================
+=====================
 BEN HASSINE Najla, bhndevtools@gmail.com .
 
 
-Usage
-=====
-url : http://gitrep
+Usage and Documentation
+========================
+url : https://bhntools.github.io/BHNtools-R
 
 Build
 =====
-
+git clone https://github.com/BHNtools/BHNtools-R.git
 
 License
 ========

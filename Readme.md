@@ -19,13 +19,14 @@
                 <h3 id='idtitle2'>II. Projects</h3>
                     <h4 id='subidtitle2'>II.1/ StackOverflow scripts</h4>
                     <span><em> - <strong> <a href="https://github.com/BHNtools/BHNtools-R/blob/master/BHNtools-R-testing/src/ggplot2Sizing.R"> ggplot2Sizing.R </a> : </strong></em>Plotting p-values with ggplot2.</span>
+                     <span><em> - <strong> <a href="https://github.com/BHNtools/BHNtools-R/blob/master/BHNtools-R-testing/src/stringToSplit.R"> stringToSplit.R </a> : </strong></em>How to split a string before the delimiter?</span>
                 <h3 id='idtitle4'>III. Issues and Contributing</h3>
                 <h4>III.1/ Contribute</h4>
                 <p>Bug reports, bug fixes, and new features are always welcome.<br>
                 * Issue Tracker: <a href="https://github.com/BHNtools/BHNtools-R/issues">github</a><br>
                 * Source Code: <a href="https://github.com/BHNtools/BHNtools-R">github</a></p>
                 <h4 id='idtitleE'>III.2/ Authors and Maintainers</h4>
-                <p>Najla BEN HASSINE : <a href="MAILTO:bhndevtools@gmail.com?Subject=BHNtools-R">bhndevtools@gmail.com</a></p>
+                <p>Najla BEN HASSINE : <a href="MAILTO:bhndevtools@gmail.com?Subject=BHNtools-Rproject">bhndevtools@gmail.com</a></p>
                 <section style="font:bold;color:green;align:center;font-size:small;">
                 BHNtools-copyright©2016
                 </section>
